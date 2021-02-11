@@ -145,7 +145,7 @@ Create a new directory here that is named your username (ie. boxxx, replacing th
 ```bash
 mkdir boXXX
 ```
-Navigate into your new folder (hint ```cd```). The data that you are going to be using is in the folder ```/usr/local/extras/Genomics/workshops/NGS_AdvSta_2020/day1```. View the contents of this folder (hint ```ls```). You will see there is a folder here called ```raw```, view the contents of this folder. We want to copy the whole of the ```raw``` directory to your fastdata folder. 
+Navigate into your new folder (hint ```cd```). The data that you are going to be using is in the folder ```/usr/local/extras/Genomics/workshops/NGS_AdvSta_2020/day1```. View the contents of this folder (hint ```ls```). You will see there is a folder here called ```raw```, view the contents of this folder. We want to copy the whole of the ```raw``` directory to your fastdata folder. This step may take a couple of mins.
 ```bash
 cp -r /usr/local/extras/Genomics/workshops/NGS_AdvSta_2020/day1 .
 ```
